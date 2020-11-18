@@ -154,7 +154,7 @@ const Hero = () => {
               >
                 <Box py={[null, null, null, 5]} pr={5} pt={[4, null]}>
                   <Title variant="hero">
-                    Redesigned, how you build landing page!
+                    Branding & creative - Digital Agency
                   </Title>
                   <Text mb={4}>
                     Create custom landing pages with Omega that convert more
